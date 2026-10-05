@@ -15,3 +15,15 @@ My journey of learning **Data Structures & Algorithms** through LeetCode.
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-0-blue)
 
 > Starting from 0. Learning, solving, and improving every day. 🔥
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivamravidas2-ui/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivamravidas2-ui/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
