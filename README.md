@@ -22,4 +22,16 @@ My journey of learning **Data Structures & Algorithms** through LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamravidas2-ui/DSA/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivamravidas2-ui/DSA/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivamravidas2-ui/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivamravidas2-ui/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
